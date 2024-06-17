@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ce2a5f01ee423e24d9c7899331f89bee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redPoint: {fileID: 3573422065319430113, guid: 0f9331c4a99210940bab33cffa79f797,
+      type: 3}
+  - bluePoint: {fileID: 5951275077602586300, guid: bb7301b562dd17c49afb712b0dcce57c,
+      type: 3}
+  - grayPoint: {fileID: 1200530580049439520, guid: 7b662b379e78d754d90f26f5d107961c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
